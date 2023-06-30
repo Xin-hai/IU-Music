@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "rm -rf dist && parcel build src/index.html --no-minify --public-url ./"
+  },
+  "name": "IU-music",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Xin-hai <aa1940358283@163.com>",
+  "license": "MIT"
+}

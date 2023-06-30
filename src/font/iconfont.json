@@ -1,0 +1,37 @@
+{
+  "id": "4145049",
+  "name": "IU music",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "28519493",
+      "name": "play",
+      "font_class": "pause",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "141907",
+      "name": "play-arrow",
+      "font_class": "playing",
+      "unicode": "e82f",
+      "unicode_decimal": 59439
+    },
+    {
+      "icon_id": "18983434",
+      "name": "playback_ff",
+      "font_class": "player-right",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "18983435",
+      "name": "playback_fw",
+      "font_class": "player-left",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    }
+  ]
+}
